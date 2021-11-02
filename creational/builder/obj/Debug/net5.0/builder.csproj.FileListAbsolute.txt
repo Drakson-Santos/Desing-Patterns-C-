@@ -1,0 +1,16 @@
+D:\study\desing-patterns\desing-patterns\creational\builder\bin\Debug\net5.0\builder.exe
+D:\study\desing-patterns\desing-patterns\creational\builder\bin\Debug\net5.0\builder.deps.json
+D:\study\desing-patterns\desing-patterns\creational\builder\bin\Debug\net5.0\builder.runtimeconfig.json
+D:\study\desing-patterns\desing-patterns\creational\builder\bin\Debug\net5.0\builder.runtimeconfig.dev.json
+D:\study\desing-patterns\desing-patterns\creational\builder\bin\Debug\net5.0\builder.dll
+D:\study\desing-patterns\desing-patterns\creational\builder\bin\Debug\net5.0\ref\builder.dll
+D:\study\desing-patterns\desing-patterns\creational\builder\bin\Debug\net5.0\builder.pdb
+D:\study\desing-patterns\desing-patterns\creational\builder\obj\Debug\net5.0\builder.csprojAssemblyReference.cache
+D:\study\desing-patterns\desing-patterns\creational\builder\obj\Debug\net5.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\desing-patterns\desing-patterns\creational\builder\obj\Debug\net5.0\builder.AssemblyInfoInputs.cache
+D:\study\desing-patterns\desing-patterns\creational\builder\obj\Debug\net5.0\builder.AssemblyInfo.cs
+D:\study\desing-patterns\desing-patterns\creational\builder\obj\Debug\net5.0\builder.csproj.CoreCompileInputs.cache
+D:\study\desing-patterns\desing-patterns\creational\builder\obj\Debug\net5.0\builder.dll
+D:\study\desing-patterns\desing-patterns\creational\builder\obj\Debug\net5.0\ref\builder.dll
+D:\study\desing-patterns\desing-patterns\creational\builder\obj\Debug\net5.0\builder.pdb
+D:\study\desing-patterns\desing-patterns\creational\builder\obj\Debug\net5.0\builder.genruntimeconfig.cache
