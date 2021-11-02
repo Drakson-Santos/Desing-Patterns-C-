@@ -1,0 +1,16 @@
+D:\study\desing-patterns\desing-patterns-c#\bin\Debug\net5.0\desing-patterns-c#.exe
+D:\study\desing-patterns\desing-patterns-c#\bin\Debug\net5.0\desing-patterns-c#.deps.json
+D:\study\desing-patterns\desing-patterns-c#\bin\Debug\net5.0\desing-patterns-c#.runtimeconfig.json
+D:\study\desing-patterns\desing-patterns-c#\bin\Debug\net5.0\desing-patterns-c#.runtimeconfig.dev.json
+D:\study\desing-patterns\desing-patterns-c#\bin\Debug\net5.0\desing-patterns-c#.dll
+D:\study\desing-patterns\desing-patterns-c#\bin\Debug\net5.0\ref\desing-patterns-c#.dll
+D:\study\desing-patterns\desing-patterns-c#\bin\Debug\net5.0\desing-patterns-c#.pdb
+D:\study\desing-patterns\desing-patterns-c#\obj\Debug\net5.0\desing-patterns-c#.csprojAssemblyReference.cache
+D:\study\desing-patterns\desing-patterns-c#\obj\Debug\net5.0\desing-patterns-c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\desing-patterns\desing-patterns-c#\obj\Debug\net5.0\desing-patterns-c#.AssemblyInfoInputs.cache
+D:\study\desing-patterns\desing-patterns-c#\obj\Debug\net5.0\desing-patterns-c#.AssemblyInfo.cs
+D:\study\desing-patterns\desing-patterns-c#\obj\Debug\net5.0\desing-patterns-c#.csproj.CoreCompileInputs.cache
+D:\study\desing-patterns\desing-patterns-c#\obj\Debug\net5.0\desing-patterns-c#.dll
+D:\study\desing-patterns\desing-patterns-c#\obj\Debug\net5.0\ref\desing-patterns-c#.dll
+D:\study\desing-patterns\desing-patterns-c#\obj\Debug\net5.0\desing-patterns-c#.pdb
+D:\study\desing-patterns\desing-patterns-c#\obj\Debug\net5.0\desing-patterns-c#.genruntimeconfig.cache
